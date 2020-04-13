@@ -1,15 +1,26 @@
 ### Date created
-Include the date you created this project and README file.
+This data was created on the 13.04.2020
 
 ### Project Title
-Replace the Project Title
+Explore US Bikeshare Data
+
 
 ### Description
-Describe what your project is about and what it does
+This project is used to analyse the U.S bikeshare market in three cities: New York, Washington and Chicago. 
 
 ### Files used
-Include the files used
+Files used for analysis include:
+new_york_city.csv
+washington.csv
+chicago.csv
+bikeshare.py
+
+Libraries used for analysis include:
+Time
+Pandas
+Numpy
+Datetime
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+This project was completed under Udacity's Nanodegree - Programming for Data Science.
 
