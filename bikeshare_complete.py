@@ -3,7 +3,7 @@ from datetime import datetime
 from datetime import timedelta
 import time
 
-
+# State files
 chicago = 'chicago.csv'
 new_york_city = 'new_york_city.csv'
 washington = 'washington.csv'
