@@ -287,7 +287,6 @@ def statistics():
     if restart.lower() == 'yes':
         statistics()
         
-        
 if __name__ == statistics():
 	statistics()
     
