@@ -22,7 +22,7 @@ Numpy
 Datetime
 
 ### Credits
-This project was completed under Udacity's Nanodegree - Programming for Data Science.
+This project was completed under Udacity's Nanodegree - Programming for Data Science with Python
 
 
 
