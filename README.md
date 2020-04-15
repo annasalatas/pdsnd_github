@@ -6,7 +6,7 @@ Exploring US Bikeshare Data
 
 
 ### Description
-This project is used to analyse the U.S bikeshare market in three cities: New York, Washington and Chicago. 
+This project is used to analyse the U.S bikeshare market in three cities: New York, Washington and Chicago.  This project is run on Python. 
 
 ### Files used
 Files used for analysis include:
