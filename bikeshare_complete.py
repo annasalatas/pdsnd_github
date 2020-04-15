@@ -196,7 +196,7 @@ def statistics():
         new_labels.append(col.replace(' ', '_').lower())
     df.columns = new_labels
     
-
+# Made columns clearer to read
     pd.set_option('max_colwidth', 100)
     
     # creates a 'journey' column that concatenates 'start_station' with 
