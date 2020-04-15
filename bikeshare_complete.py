@@ -3,7 +3,7 @@ from datetime import datetime
 from datetime import timedelta
 import time
 
-# State files
+# State files needed to downlaod for code to work 
 chicago = 'chicago.csv'
 new_york_city = 'new_york_city.csv'
 washington = 'washington.csv'
@@ -196,6 +196,7 @@ def statistics():
         new_labels.append(col.replace(' ', '_').lower())
     df.columns = new_labels
     
+
     pd.set_option('max_colwidth', 100)
     
     # creates a 'journey' column that concatenates 'start_station' with 
